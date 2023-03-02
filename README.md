@@ -28,6 +28,13 @@ I have talent in both programming and foreign languages (English :england: and F
 <br/>
 <br/>
 <br/>
+
+
+
+
+
+
+
 If you want to know more about me, please check out my [LinkedIn](https://www.linkedin.com/in/antonia-bajic/) :monocle_face:
 
 <!--
