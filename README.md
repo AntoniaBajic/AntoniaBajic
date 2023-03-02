@@ -7,8 +7,8 @@ If you want to know more about me, please check out my [LinkedIn](https://www.li
 Developed several projects using: 
 
 <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="30" height="30"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30" height="30"/>  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="50" height="50"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50"/>  
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="50" height="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" width="50" height="50"/>
