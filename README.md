@@ -4,6 +4,8 @@ Graduated at FESB,University of Split. :woman_student:
 
 If you want to know more about me, please check out my [LinkedIn](https://www.linkedin.com/in/antonia-bajic/) profile. :monocle_face:
 
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+
 <!--
 **AntoniaBajic/AntoniaBajic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
