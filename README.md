@@ -20,9 +20,9 @@ Developed several projects using:
 I strive to reach the best version of myself, both personally and professionally.
 I'm enthusiastic about programming, learning new things and updating my knowledge. 
 I enjoy working with people that share the same enthusiasm and love for programming.  
-<br>
+<br/>
 I have talent in both programming and foreign languages (English :england: and French :st_martin:). 
-<br>
+<br/>
 If you want to know more about me, please check out my [LinkedIn](https://www.linkedin.com/in/antonia-bajic/) profile. :monocle_face:
 
 <!--
