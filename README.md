@@ -28,7 +28,7 @@ I have talent in both programming and foreign languages (English :england: and F
 <br/>
 <br/>
 If you want to know more about me, please check out my [LinkedIn](https://www.linkedin.com/in/antonia-bajic/) :monocle_face:
-
+[I'm an inline-style link](https://www.google.com)
 <!--
 **AntoniaBajic/AntoniaBajic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
