@@ -1,7 +1,8 @@
 ### Hi I am Software Developer working in IT industry. :woman_technologist:
 
 Graduated at FESB,University of Split.
- If you want to know more about me, please check out my [LinkedIn](https://www.linkedin.com/in/antonia-bajic/) profile.
+
+If you want to know more about me, please check out my [LinkedIn](https://www.linkedin.com/in/antonia-bajic/) profile.
 
 <!--
 **AntoniaBajic/AntoniaBajic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
