@@ -1,4 +1,4 @@
-### Hi I am Software Developer :wave:
+### Hi I am Software Developer working in IT industry. Graduated at FESB,University of Split.
 
 <!--
 **AntoniaBajic/AntoniaBajic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
