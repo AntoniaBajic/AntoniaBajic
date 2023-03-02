@@ -5,6 +5,8 @@ Graduated at FESB,University of Split. :woman_student:
 If you want to know more about me, please check out my [LinkedIn](https://www.linkedin.com/in/antonia-bajic/) profile. :monocle_face:
 
 Developed several projects using: 
+
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="30" height="30"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30" height="30"/>  
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="30" height="30"/>
