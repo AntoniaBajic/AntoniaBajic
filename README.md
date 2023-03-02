@@ -19,7 +19,8 @@ Developed several projects using:
 <br/>
 I strive to reach the best version of myself, both personally and professionally.
 <br/>
-I'm enthusiastic about programming, learning new things and updating my knowledge. 
+I'm enthusiastic about programming, learning new things and updating my knowledge. :books:
+<br/>
 I enjoy working with people that share the same enthusiasm and love for programming.  
 <br/>
 I have talent in both programming and foreign languages (English :england: and French :st_martin:). 
