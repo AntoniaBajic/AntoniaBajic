@@ -3,6 +3,7 @@
 Graduated at FESB,University of Split. :woman_student:
 <br/>
 Lead developer on several projects (software architecture development- web and mobile). 
+If you want to know more about me, please check out my [LinkedIn](https://www.linkedin.com/in/antonia-bajic/) :monocle_face:
 
 Developed several projects using: 
 
