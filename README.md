@@ -1,4 +1,4 @@
-### Hi, I am Software Developer working in IT industry. :woman_technologist:
+### Hi :wave:, I am Software Developer working in IT industry. :woman_technologist:
 
 Graduated at FESB,University of Split. :woman_student:
 
