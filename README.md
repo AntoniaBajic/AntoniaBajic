@@ -4,7 +4,7 @@ Graduated at FESB,University of Split. :woman_student:
 <br/>
 Lead developer on several projects (software architecture development- web and mobile). 
 
-Developed several projects using: 
+Developed several applications using: 
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="50" height="50"/>
