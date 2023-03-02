@@ -25,6 +25,8 @@ I enjoy working with people that share the same enthusiasm and love for programm
 <br/>
 I have talent in both programming and foreign languages (English :england: and French :st_martin:). 
 <br/>
+<br/>
+<br/>
 If you want to know more about me, please check out my [LinkedIn](https://www.linkedin.com/in/antonia-bajic/) profile. :monocle_face:
 
 <!--
