@@ -1,7 +1,7 @@
 ### Hi :wave:, I am Software Developer working in IT industry. :woman_technologist:
 
 Graduated at FESB,University of Split. :woman_student:
-<br>
+<br/>
 Lead developer on several projects (software architecture development- web and mobile). 
 
 Developed several projects using: 
@@ -16,8 +16,9 @@ Developed several projects using:
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="50" height="50"/>
 </div>
 
-<br>
+<br/>
 I strive to reach the best version of myself, both personally and professionally.
+<br/>
 I'm enthusiastic about programming, learning new things and updating my knowledge. 
 I enjoy working with people that share the same enthusiasm and love for programming.  
 <br/>
