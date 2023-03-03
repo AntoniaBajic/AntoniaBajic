@@ -1,6 +1,6 @@
 ### Hi :wave:, I am Software Developer working in IT industry. :woman_technologist:
 
-Graduated at FESB,University of Split. :woman_student:
+Graduated at FESB, University of Split. :woman_student:
 <br/>
 Lead developer on several projects (software architecture development- web and mobile). 
 
